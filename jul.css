@@ -1,0 +1,27 @@
+body{
+    background-color: darkgreen;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 1%;
+    overflow: hidden;
+    background-color: red;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+}
+ul{
+    color: white;
+    font: 50;
+}
+#julakos{
+    float: right;
+    width: 200; height: 200;
+}
+p{
+    text-align: left;
+    color: rgb(255, 0, 0);
+    font-size: xx-large;
+}
+
